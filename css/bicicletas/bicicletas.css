@@ -75,6 +75,10 @@
     width: 24px;
 }
 
+.bicicletas-conteudo .botao {
+    margin-top: 20px;
+}
+
 @media (max-width: 800px) {
     .bicicletas-bg {
         background: var(--cor-11);
